@@ -41,12 +41,12 @@ PLEASE NOTE: This app requires the use of API keys to run as it was a project in
 - Python
 
 <h2>API</h2>
-- Kiwi
+- Kiwi<br>
 - Twilio
 
 <h4>Packages</h4>
-- twilio
-- requests
+- twilio<br>
+- requests<br>
 - python-dotenv
 
 <h2>Installation</h2>
